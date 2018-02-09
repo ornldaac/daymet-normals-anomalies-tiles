@@ -18,7 +18,7 @@ Python libraries:
 ## Installing
 For scientific computing, [anaconda](https://conda.io/docs/user-guide/install/index.html) is recommended as it come pre-installed with packages such as *numpy*, *iPython*, and *matplotlib*.
 
-Most operating systems, however, come with Python. To install the necessary python libraries, you can copy the [requirements.txt](https://github.com/ornldaac/daymet_normals_anomalies_tiles/blob/master/requirements.txt) from this repository and run:
+Most operating systems, however, come with Python. To install the necessary python libraries, you can copy the [requirements.txt](https://raw.githubusercontent.com/ornldaac/daymet_normals_anomalies_tiles/master/requirements.txt) from this repository and run:
 
 ```bash
 pip install -r requirements.txt
