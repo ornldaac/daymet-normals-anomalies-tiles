@@ -4,7 +4,7 @@
 ## Overview
 In this tutorial, we will explore using the `pydap` package to plot `Daymet` data. Specifically, we will calculate anomalies and normals for a weather estimate such as `tmin`, `tmax`, and `prcp`. To learn more about how to use Jupyter Notebooks, check out this [`YouTube` video](https://www.youtube.com/watch?v=JImOfVHQtYc).
 
-<img src="output.png" width="48">
+<img src="output.png" width="100%">
 
 
 ## Source Data
