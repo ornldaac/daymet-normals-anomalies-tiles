@@ -11,7 +11,7 @@ A spatial subset of the North American Daymet dataset daily data; https://daymet
 
 ## Prerequisites:
 Python 2.7 or greater. Python modules: `pydap`, `basemap`, `matplotlib`. To run this notebook locally, you will also need:
-`iPython`, `ipywidgets`, `jupyter`. Requirements are also in [requirements.txt](requirements.txt)
+`iPython`, `ipywidgets`, `jupyter`. Requirements are also in [requirements.txt](https://raw.githubusercontent.com/ornldaac/daymet_normals_anomalies_tiles/master/requirements.txt)
 
 ## Installing
 For scientific computing, [anaconda](https://conda.io/docs/user-guide/install/index.html) is recommended as it come pre-installed with packages such as *numpy*, *iPython*, and *matplotlib*.
