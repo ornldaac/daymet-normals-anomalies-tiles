@@ -29,4 +29,4 @@ Most operating systems, however, come with Python. To install the necessary pyth
 pip install -r requirements.txt
 ```
 ## Procedure
-In this tutorial the Daymet data is aggregated by tile. You can access the Jupyter Notebook [here]((https://github.com/ornldaac/daymet-normals-anomalies-tiles/blob/master/daymet_normals_anomalies_agg_tiles.ipynb).
+In this tutorial the Daymet data is aggregated by tile. You can access the Jupyter Notebook [here](https://github.com/ornldaac/daymet-normals-anomalies-tiles/blob/master/daymet_normals_anomalies_agg_tiles.ipynb).
