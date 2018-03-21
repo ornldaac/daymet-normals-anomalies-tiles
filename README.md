@@ -1,7 +1,12 @@
-# OPeNDAP Access in Python to Derive Climate Normals and Anomalies of Daymet Aggregated netCDF4 Tile Data
-##### Keywords: ORNL DAAC, Daymet, weather estimates, Anomalies, Normals, THREDDS, OPeNDAP, Earthdata, `pydap`
+# [OPeNDAP Access in Python to Derive Climate Normals and Anomalies of Daymet Aggregated netCDF4 Tile Data](https://github.com/ornldaac/daymet-normals-anomalies-tiles/blob/master/daymet_normals_anomalies_agg_tiles.ipynb)
 
-**Click on [this link](https://github.com/ornldaac/daymet_normals_anomalies_tiles/blob/master/daymet_normals_anomalies_agg_tiles.ipynb) to view the tutorial.**
+*Author: Karthik Garimella*
+
+*Date: February 28, 2018*
+
+*Contact for ORNL DAAC: uso@daac.ornl.gov*
+
+### Keywords: ORNL DAAC, Daymet, weather estimates, Anomalies, Normals, THREDDS, OPeNDAP, Earthdata, `pydap`
 
 ## Overview
 In this tutorial, we will explore using the `pydap` package to plot `Daymet` data. Specifically, we will calculate anomalies and normals for a weather estimate such as `tmin`, `tmax`, and `prcp`. To learn more about how to use Jupyter Notebooks, check out this [`YouTube` video](https://www.youtube.com/watch?v=JImOfVHQtYc).
@@ -24,7 +29,3 @@ Most operating systems, however, come with Python. To install the necessary pyth
 ```bash
 pip install -r requirements.txt
 ```
-
-## Tutorial
-In [this notebook](https://github.com/ornldaac/daymet_normals_anomalies_tiles/blob/master/daymet_normals_anomalies_agg_tiles.ipynb), the Daymet data is aggregated by tile. This means
-that the data for all years for one variable is stored in one netCDF4 file.
