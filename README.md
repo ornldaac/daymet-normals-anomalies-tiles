@@ -1,6 +1,6 @@
 # [OPeNDAP Access in Python to Derive Climate Normals and Anomalies of Daymet Aggregated netCDF4 Tile Data](https://github.com/ornldaac/daymet-normals-anomalies-tiles/blob/master/daymet_normals_anomalies_agg_tiles.ipynb)
 
-*Author: Karthik Garimella*
+*Author: ORNL DAAC*
 
 *Date: February 28, 2018*
 
